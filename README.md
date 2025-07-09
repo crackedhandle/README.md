@@ -23,7 +23,7 @@ To get started with the Attendance Tracking Web Appl, follow these following ste
   ```
     npm start dev
   ```
-* Open your web browser and navigate to **http://192.168.1.10:3000
+* Open your web browser and navigate to **http://192.168.1.13
 ** to access the application.
 
 ## Technologies Used
