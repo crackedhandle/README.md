@@ -11,7 +11,7 @@ Welcome to the MERM Attendance Tracking Web App!.It is designed to help you effi
 To get started with the Attendance Tracking Web Appl, follow these following steps:
 * Clone the repository:
   ```
-    https://github.com/EkagraAgarwal08/trackUrAttendence
+    https://github.com/crackedhandle/trackUrAttendence
   ```
 * Install server and client dependencies:
   ```
@@ -23,7 +23,8 @@ To get started with the Attendance Tracking Web Appl, follow these following ste
   ```
     npm start dev
   ```
-* Open your web browser and navigate to **http://localhost:3000** to access the application.
+* Open your web browser and navigate to **http://192.168.1.10:3000
+** to access the application.
 
 ## Technologies Used
 * Frontend: Handlebars, HTML, CSS, Bootstrap, JavaScript
